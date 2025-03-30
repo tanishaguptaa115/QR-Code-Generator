@@ -12,18 +12,18 @@ This QR Code Generator is a simple Python project that allows users to create QR
 
 ✅ Quick and lightweight implementation using qrcode library
 
-📜 Dependencies
+# 📜 Dependencies
 
 1. Python 3
 
 2. qrcode (Python QR Code library)
 
-🎯 Future Improvements
+# 🎯 Future Improvements
 
 🚀 Customizable QR codes (colors, sizes, logos, etc.)
 🚀 QR code decoding feature
 🚀 Web-based QR code generator using Flask/Django
 
-🤝 Contributing
+# 🤝 Contributing
 
 Feel free to fork the repo, submit pull requests, or suggest improvements!
